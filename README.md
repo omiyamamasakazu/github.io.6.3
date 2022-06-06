@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>omiyamablog</title>
+    <style>
+  .logo{
+        text-align: center;
+        background-color: white;
+        font-size: 130%;
+  }
+  body{
+        background-color: white;
+        font-family: serif;
+  }
+  h1{
+   text-align: center;
+  }
+  .title{
+    background-color: white;
+  }
+  p{
+    background-color: white;
+  }
+  .link{
+    text-align: center;
+    clear: White;
+  }
+  
+  .title{
+padding-top: .5em;
+padding-bottom: .5em;
+margin-bottom: 2em;
+border-bottom: double 5px #5490cc;
+color:#5490cc;
+}
+.home li{
+  display: inline;
+}
+.sousyoku{
+  color: white;
+}
+.home{
+  background-color: darkgray;
+}
+.top{
+  color: white;
+}
+nav {
+float: right;
+}
+nav li {
+line-height: 2em;
+}
+
+ul {
+  list-style: none;
+}
+.yabai{
+ font-weight: bold;
+}
+.honbun{
+  font-size: 150%;
+}
+    </style>
+</head>
+<body>
+  <header>
+  <div class="logo"><img src="img/omiyamablog.png"><p>御宮間ブログ</p></div>
+  <ul class="home">
+    <li><a href="https://omiyamamasakazu.github.io/github.io/" class="top">ホーム</a></li><li class="sousyoku">　>　</li><li><a href="template.html" class="top">5/30</a></li>
+  </ul>
+</header>
+    <h1><span class="title">　スト6楽しみだねって話　6/3　</span></h1>
+    <nav>
+        <ul>
+        <li><a href="https://omiyamamasakazu.github.io/github.io.5.27/index.html"><img src="img/kunou.png" width="300" height="300"></a></li>
+        <li><a href="https://youtube.com/playlist?list=PLKYhRNOnTPBxmUoubH5yqOL6iyyImdZLF"><img src="img/六月.png" width="300" height="300"></a></li>
+        </ul>
+    </nav>
+    <div class="honbun">
+    <p>突然ですが、<span class="yabai">スト6やばくないですか？</span>情報の量がすごすぎる。お前ほんとにカプコンか？<br>
+    今回公開されたのは新登場キャラクターの<span class="yabai">春麗</span>と<span class="yabai">ジャミー</span></p>
+    <img src="chunli_ss01.jpeg" width="300" height="150"><img src="jamie_ss01.jpeg" width="300" height="150">
+    <p>スト2からお馴染みの地上戦最強キャラ春麗に、悪名高きユンヤン兄弟を信仰している新キャラクター・酔拳使いのジャミー。いいメンツですね。<br>
+      さらに新システム<span class="yabai">「ドライブシステム」</span>や初心者救済のための<span class="yabai">「モダンタイプ」</span>今回の開発は<span class="yabai">やる気が違う</span>ことが伺えます。
+    </p>
+    <img src="drive.png" width="300" height="200"><img src="modan.png" width="400" height="200">
+    <p>今回は従来のストリートファイターシリーズと打って変わって一人用モードも充実しているようなので、新規プレイヤーが増えたらとても嬉しいです。<br>
+    以上御宮間でした。</p>
+  </div>  
+  </body>
