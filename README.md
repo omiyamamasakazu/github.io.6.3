@@ -83,11 +83,11 @@ ul {
     <div class="honbun">
     <p>突然ですが、<span class="yabai">スト6やばくないですか？</span>情報の量がすごすぎる。お前ほんとにカプコンか？<br>
     今回公開されたのは新登場キャラクターの<span class="yabai">春麗</span>と<span class="yabai">ジャミー</span></p>
-    <img src="chunli_ss01.jpeg" width="300" height="150"><img src="jamie_ss01.jpeg" width="300" height="150">
+    <img src="img/chunli_ss01.jpeg" width="300" height="150"><img src="img/jamie_ss01.jpeg" width="300" height="150">
     <p>スト2からお馴染みの地上戦最強キャラ春麗に、悪名高きユンヤン兄弟を信仰している新キャラクター・酔拳使いのジャミー。いいメンツですね。<br>
       さらに新システム<span class="yabai">「ドライブシステム」</span>や初心者救済のための<span class="yabai">「モダンタイプ」</span>今回の開発は<span class="yabai">やる気が違う</span>ことが伺えます。
     </p>
-    <img src="drive.png" width="300" height="200"><img src="modan.png" width="400" height="200">
+    <img src="img/drive.png" width="300" height="200"><img src="img/modan.png" width="400" height="200">
     <p>今回は従来のストリートファイターシリーズと打って変わって一人用モードも充実しているようなので、新規プレイヤーが増えたらとても嬉しいです。<br>
     以上御宮間でした。</p>
   </div>  
